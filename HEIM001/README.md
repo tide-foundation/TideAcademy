@@ -18,10 +18,10 @@ Every week a quiz will also be provided to help the student's refresh their know
 The Final Assignment will be completion of the April Competition alongside a short explanation as to *why* your solution required Tide and *how* you improved your app's security with Tide.
 
 ## Marks Allocation
-Week 1 Quiz      - 5%
-Week 2 Quiz      - 5%
-Week 3 - 4 Quiz  - 10%
-Final Assignment - 80%
+- Week 1 Quiz      - 5%
+- Week 2 Quiz      - 5%
+- Week 3 - 4 Quiz  - 10%
+- Final Assignment - 80%
 
 Passing Grade    - 60%
 
