@@ -1,3 +1,9 @@
+## About this course
+
+
+## Registration
+We highly recommend joining the HEIM001 Discord channel to discuss the content with your peers. Fill out [this](https://forms.gle/PXq6d3fz7SuSnj2V9) registration form to join!
+
 ## Course Outline 
 | Week  |                                                           Topics                                                          |
 |-------|:-------------------------------------------------------------------------------------------------------------------------:|
@@ -11,4 +17,16 @@ Every week a quiz will also be provided to help the student's refresh their know
 ## Final Assignment
 The Final Assignment will be completion of the April Competition alongside a short explanation as to *why* your solution required Tide and *how* you improved your app's security with Tide.
 
+## Marks Allocation
+Week 1 Quiz      - 5%
+Week 2 Quiz      - 5%
+Week 3 - 4 Quiz  - 10%
+Final Assignment - 80%
+
+Passing Grade    - 60%
+
 ## Course Outcomes
+The course will provide all students with:
+- A strong understanding of the problem with the world's current security paradigm.
+- Comprehensive knowledge of the Heimdall SDK to secure apps and user identities.
+### Graduating students will receive a Tide Certificate congratulating their completion of the course.
