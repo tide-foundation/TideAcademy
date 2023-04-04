@@ -6,7 +6,7 @@ At the Tide Academy, we believe that the future is in knowledge, and we are comm
 Join us at the Tide Academy and be a part of the solution for a better tomorrow. Together, we can harness the power of Tide and create a better world for all.
 
 # New Course Available
-The Tide Academy is excited to offer its first course of 2023! The Heimdall SDK training course (HEIM001) will commence on the 5th of April and will teach students:
+The Tide Academy is excited to offer its first course of 2023! The Heimdall SDK training course (HEIM101) will commence on the 5th of April and will teach students:
 - The basics of emerging technologies such as decentralized architectures and blockchain.
 - Why Tide was created and what problem it is able to solve.
 - What the Heimdall SDK is able to provide to an app's security.
