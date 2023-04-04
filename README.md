@@ -12,5 +12,5 @@ The Tide Academy is excited to offer its first course of 2023! The Heimdall SDK 
 - What the Heimdall SDK is able to provide to an app's security.
 - How to securely implement the Heimdall SDK in your app.
 
-A link to the course is available here.
+A link to the course is available [here](https://github.com/tide-foundation/TideAcademy/tree/main/HEIM001).
 
