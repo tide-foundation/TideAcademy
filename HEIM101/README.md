@@ -1,4 +1,5 @@
 # Heimdall SDK Training Course
+## [SDK Link](https://github.com/tide-foundation/heimdall/tree/main)
 ## About this course
 Welcome to the Heimdall SDK Training Course, an exciting unit that will equip you with the skills and knowledge to take your app's security to the next level! In this course, you'll learn how to integrate the Heimdall Javascript SDK into your apps, providing your users with a secure and seamless experience. But this course isn't just about coding - you'll also gain a deep understanding of the current cybersecurity problems facing the world today, and how Tide has provided a solution to these issues. By the end of this course, you'll know exactly why you need the Heimdall Javascript SDK to protect your app, and you'll be able to confidently implement this powerful security solution in your own projects.
 
