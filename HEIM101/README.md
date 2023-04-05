@@ -9,12 +9,12 @@
 Welcome to the Heimdall SDK Training Course, an exciting unit that will equip you with the skills and knowledge to take your app's security to the next level! In this course, you'll learn how to integrate the Heimdall Javascript SDK into your apps, providing your users with a secure and seamless experience. But this course isn't just about coding - you'll also gain a deep understanding of the root failings of current approaches to cybersecurity, and how Tide addresses them. By the end of this course, you'll know exactly why you need the Heimdall Javascript SDK to protect your app, and you'll be able to confidently implement this powerful security solution in your own projects.
 
 ## Course Outline 
-| Week  |                                                           Topics                                                          |
-|-------|:-------------------------------------------------------------------------------------------------------------------------:|
-| 1     | - Technologies relevant to Tide - Current cybersecurity issues around the world - What Tide is - Definition of Heimdall SDK |
-| 2     |    - Why the Heimdall SDK was created - What functions the Heimdall SDK can provide - How to implement the Heimdall SDK   |
-| 3 - 4 |         - In depth review of how PlatyPus Passwords integrated the Heimdall SDK - Preparation for final assignment        |
-| 5     |                                                Final Assignment Submission                                                |
+| Week  | Dates                   | Topics                                                                                                                      |
+|-------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 1     | April 5th - April 12th  | - Technologies relevant to Tide - Current cybersecurity issues around the world - What Tide is - Definition of Heimdall SDK |
+| 2     | April 12th - April 19th | - Why the Heimdall SDK was created - What functions the Heimdall SDK can provide - How to implement the Heimdall SDK        |
+| 3 - 4 | April 19th - May 3rd    | - In depth review of how PlatyPus Passwords integrated the Heimdall SDK - Preparation for final assignment                  |
+| 5     | May 9th 11:59pm GMT     | Final Assignment Submission                                                                                                 |
 
 Every week a quiz will also be provided to help the student's refresh their knowledge on the topics learnt.
 
