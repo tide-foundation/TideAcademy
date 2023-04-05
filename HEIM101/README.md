@@ -1,10 +1,10 @@
 # Heimdall SDK Training Course
 ## [SDK Link](https://github.com/tide-foundation/heimdall/tree/main)
 ## About this course
-Welcome to the Heimdall SDK Training Course, an exciting unit that will equip you with the skills and knowledge to take your app's security to the next level! In this course, you'll learn how to integrate the Heimdall Javascript SDK into your apps, providing your users with a secure and seamless experience. But this course isn't just about coding - you'll also gain a deep understanding of the current cybersecurity problems facing the world today, and how Tide has provided a solution to these issues. By the end of this course, you'll know exactly why you need the Heimdall Javascript SDK to protect your app, and you'll be able to confidently implement this powerful security solution in your own projects.
+Welcome to the Heimdall SDK Training Course, an exciting unit that will equip you with the skills and knowledge to take your app's security to the next level! In this course, you'll learn how to integrate the Heimdall Javascript SDK into your apps, providing your users with a secure and seamless experience. But this course isn't just about coding - you'll also gain a deep understanding of the root failiings of current approaches to cybersecurity, and how Tide addresses them. By the end of this course, you'll know exactly why you need the Heimdall Javascript SDK to protect your app, and you'll be able to confidently implement this powerful security solution in your own projects.
 
 ## Registration
-We highly recommend joining the HEIM001 Discord channel to discuss the content with your peers. Fill out [this](https://forms.gle/PXq6d3fz7SuSnj2V9) registration form to join!
+[Fill out this registration form to join!](https://forms.gle/PXq6d3fz7SuSnj2V9) We highly recommend joining the HEIM001 Discord channel to discuss the content with your peers. 
 
 ## Course Outline 
 | Week  |                                                           Topics                                                          |
@@ -17,7 +17,7 @@ We highly recommend joining the HEIM001 Discord channel to discuss the content w
 Every week a quiz will also be provided to help the student's refresh their knowledge on the topics learnt.
 
 ## Final Assignment
-The Final Assignment will be completion of the April Competition alongside a short explanation as to *why* your solution required Tide and *how* you improved your app's security with Tide.
+The Final Assignment is an implementation of the Heimdall Javascript SDK in an app of your choosing, with a short explanation as to *why* your solution required Tide and *how* you improved your app's security with Tide. Your submission will also act as an automatic entry to our "Tide Inside Competition" with the chance to win prizes and glory.
 
 ## Marks Allocation
 - Week 1 Quiz      - 5%
@@ -31,4 +31,4 @@ Passing Grade    - 60%
 The course will provide all students with:
 - A strong understanding of the problem with the world's current security paradigm.
 - Comprehensive knowledge of the Heimdall SDK to secure apps and user identities.
-### Graduating students will receive a Tide Certificate congratulating their completion of the course.
+### Graduating students will receive a Tide Certificate acknowledging successful completion of the course.
