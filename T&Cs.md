@@ -32,7 +32,7 @@
 
 6.2 These Terms shall be governed by and construed in accordance with the laws of the jurisdiction in which the Organizer is based.
 
-6.3 Any disputes arising out of or in connection with these Terms shall be subject to the exclusive jurisdiction of the courts of the jurisdiction in which the Organizer is based.
+6.3 Any disputes arising out of or in connection with these Terms shall be subject to the exclusive jurisdiction of the courts of New South Wales, Australia.
 
 6.4 These Terms may not be modified, amended, or waived except in writing signed by both Parties.
 
