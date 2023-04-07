@@ -34,6 +34,6 @@
 
 6.3 Any disputes arising out of or in connection with these Terms shall be subject to the exclusive jurisdiction of the courts of New South Wales, Australia.
 
-6.4 These Terms may not be modified, amended, or waived except in writing signed by both Parties.
+6.4 The Company may amend or modify these Terms and Conditions at any time, and any such amendment or modification shall be effective upon posting by the Company.
 
 6.5 If any provision of these Terms is held to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
