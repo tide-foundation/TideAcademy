@@ -4,4 +4,4 @@ Powerpoint [presentation](https://zivaconnect-my.sharepoint.com/:p:/g/personal/j
 ## Video explanation
 [Vimeo link](https://vimeo.com/816789712)
 ## Weekly Quiz
-[Quiz 2](https://forms.gle/RSbmPDc39vH59rHn7)
+[Quiz 2](https://forms.gle/B3QSKBfsoeNksBYw9)
