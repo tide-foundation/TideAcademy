@@ -13,3 +13,5 @@ The Tide Academy is excited to offer its first course of 2023! The Heimdall SDK 
 - How to securely implement the Heimdall SDK in your app.
 
 [A link to the course is available here](https://github.com/tide-foundation/TideAcademy/tree/main/HEIM101).
+
+**_You can join the course at any stage and access all course materials before May 9th 11:59pm GMT_**
