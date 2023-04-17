@@ -7,6 +7,7 @@ Your application could be anything, as long as it uses some Javascript to implem
 Your application could be:
 - A SPA (Single Page Application)
 - A website that uses a back-end
+- A console application
 
 You will also need to provide a short explanation of
 - ***why*** your solution required Tide
