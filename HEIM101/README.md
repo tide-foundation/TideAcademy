@@ -1,7 +1,7 @@
 # Heimdall SDK Training Course
 
 ## Registration
-**_You can join the course at any stage before May 9th 11:59pm GMT_**
+**_You can join the course at any stage, help yourself to the learnign materials and ask questions on our Discord_**
 
 [Fill out this registration form to join!](https://forms.gle/PXq6d3fz7SuSnj2V9) We highly recommend joining the HEIM101 Discord channel to discuss the content with your peers. 
 
@@ -13,10 +13,10 @@ Welcome to the Heimdall SDK Training Course, an exciting unit that will equip yo
 ## Course Outline 
 | Week  | Dates                   | Topics                                                                                                                      |
 |-------|-------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| 1     | April 5th - April 12th  | - Technologies relevant to Tide - Current cybersecurity issues around the world - What Tide is - Definition of Heimdall SDK |
-| 2     | April 12th - April 19th | - Why the Heimdall SDK was created - What functions the Heimdall SDK can provide - How to implement the Heimdall SDK        |
-| 3 - 4 | April 19th - May 3rd    | - In depth review of how PlatyPus Passwords integrated the Heimdall SDK - Preparation for final assignment                  |
-| 5     | May 9th 11:59pm GMT     | Final Assignment Submission                                                                                                 |
+| 1     | N/A                     | - Technologies relevant to Tide - Current cybersecurity issues around the world - What Tide is - Definition of Heimdall SDK |
+| 2     | N/A                     | - Why the Heimdall SDK was created - What functions the Heimdall SDK can provide - How to implement the Heimdall SDK        |
+| 3 - 4 | N/A                     | - In depth review of how PlatyPus Passwords integrated the Heimdall SDK - Preparation for final assignment                  |
+| 5     | N/A                     | - Final Assignment Submission                                                                                               |
 
 Every week a quiz will also be provided to help the student's refresh their knowledge on the topics learnt.
 
