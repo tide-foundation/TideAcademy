@@ -14,4 +14,4 @@ The Tide Academy is excited to offer The Heimdall SDK training course (HEIM101) 
 
 [A link to the course is available here](https://github.com/tide-foundation/TideAcademy/tree/main/HEIM101).
 
-**_You can join the course at any stage, help yourself to the online content and ask any questions on our Discord _**
+**You can join the course at any stage, help yourself to the online content and ask any questions on our Discord**
