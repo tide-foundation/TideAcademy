@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> Please note this material has been superseded and decommissioned
+
 # Heimdall SDK Training Course
 
 ## Registration
