@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> Please note this material has been superseded and decommissioned
+> 
 # Tide Academy
 Welcome to the Tide Academy, where innovation and learning collide to create the next generation of the internet!
 
