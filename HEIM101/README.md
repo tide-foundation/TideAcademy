@@ -1,7 +1,7 @@
 # Heimdall SDK Training Course
 
 ## Registration
-**_You can join the course at any stage, help yourself to the learnign materials and ask questions on our Discord_**
+**_You can join the course at any stage, help yourself to the learning materials and ask questions on our Discord_**
 
 [Fill out this registration form to join!](https://forms.gle/PXq6d3fz7SuSnj2V9) We highly recommend joining the HEIM101 Discord channel to discuss the content with your peers. 
 
